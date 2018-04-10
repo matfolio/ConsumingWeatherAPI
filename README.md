@@ -1,5 +1,5 @@
 # ConsumingWeatherAPI
-Using the nodejs to consume weather API using the openWeatherMap API
+Using Nodejs to consume weather API using the openWeatherMap API
 
 ### installation
 after the cloning the of the project you can execute npm install to get all the installed dependencies into your working project.
@@ -7,8 +7,8 @@ after the cloning the of the project you can execute npm install to get all the 
 npm install 
 ```
 ### execution
-The backend for out simple application using nodejs and ejs as the templating enging.
-under the hood I am using the Reactjs to render component into the view. quite convinient given the 
+The backend for this simple application using nodejs and ejs as the templating engine.
+under the hood I am using Reactjs to render component into the view. quite convenient given the 
 capability of reactjs for this functionality (portability).
 check the main component (index.js) for the implementation.
 
