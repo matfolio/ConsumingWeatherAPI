@@ -23,4 +23,7 @@ cloning the project from github, you have to:
 run install after downloading the project to lock the project dependency at the time of creating this project.
 
 
-<img width="949" alt="weatherapi" src="https://user-images.githubusercontent.com/14889124/38558377-88d6754a-3cd8-11e8-9536-032515af361d.PNG">
+
+<img width="946" alt="weatherapi" src="https://user-images.githubusercontent.com/14889124/38558466-e7355020-3cd8-11e8-8e41-7132507c3ef6.PNG">
+
+fig.1
