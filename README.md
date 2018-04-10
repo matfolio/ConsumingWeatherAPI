@@ -16,7 +16,7 @@ To execute this simple application:
 
 open two command prompt or terminal ,
 1. run the command: webpack
-2 run the command: npm start which implicitly run node in watch mode.
+2. run the command: npm start which implicitly run node in watch mode.
 
 cloning the project from github, you have to:
 
