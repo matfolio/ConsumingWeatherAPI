@@ -1,8 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var Wind = require('./components/Wind.jsx');
-var Clouds = require('./components/Clouds.jsx');
-var Overview = require('./components/Overview.jsx');
+var Wind = require('../components/Wind.jsx');
+var Clouds = require('../components/Clouds.jsx');
+var Overview = require('../components/Overview.jsx');
 const styles = require('./inlinestyle.js');
 
 class Weather extends React.Component {

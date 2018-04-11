@@ -12,7 +12,7 @@ class Wind extends React.Component {
            <div>
               <h1>Wind</h1>
               <h3>Wind deg:{ wind.deg}</h3>
-              <h3>Wind speed:{ wind.speed}</h3>
+              <h3>Wind speed:{ wind.speed}km/h</h3>
            </div>
       )
    }
