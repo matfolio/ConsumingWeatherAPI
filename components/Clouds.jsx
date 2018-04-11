@@ -12,7 +12,7 @@ class Cloud extends React.Component {
       return (
            <div>
               <h4>Clouds</h4>
-              <p>cloud: { cloud.all}</p>
+              <h5>cloud: { cloud.all}</h5>
            </div>
       )
    }

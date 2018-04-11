@@ -11,9 +11,9 @@ class Overview extends React.Component {
       return (
            <div>
               <h4>Weather info for: { this.props.name}</h4>
-              <p>Humidity: {overview.humidity}%</p>
-              <p>pressure: { overview.pressure}</p>
-              <p>Temp: { overview.temp } degree celcius</p>
+              <h5>Humidity: {overview.humidity}%</h5>
+              <h5>pressure: { overview.pressure}</h5>
+              <h5>Temp: { overview.temp } degree celcius</h5>
            </div>
       )
    }
