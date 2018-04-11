@@ -17,5 +17,4 @@ class Wind extends React.Component {
       )
    }
 }
-
 module.exports = Wind

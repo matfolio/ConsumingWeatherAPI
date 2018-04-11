@@ -1,5 +1,5 @@
 /*
-the backend for out simple application using nodejs and ejs as the tenplating enging.
+the backend for out simple application using nodejs and ejs as the templating enging.
 under the hood I am using the Reactjs to render component into the view. quite convinient given the 
 capability of reactjs for this functionality (portability).
 check the main component (index.js) for the implementation.
