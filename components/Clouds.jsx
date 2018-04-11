@@ -11,8 +11,8 @@ class Cloud extends React.Component {
       let cloud = this.props;  
       return (
            <div>
-              <h1>Clouds</h1>
-              <h3>cloud: { cloud.all}</h3>
+              <h4>Clouds</h4>
+              <p>cloud: { cloud.all}</p>
            </div>
       )
    }

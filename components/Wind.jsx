@@ -10,9 +10,9 @@ class Wind extends React.Component {
       let wind = this.props
       return (
            <div>
-              <h1>Wind</h1>
-              <h3>Wind deg:{ wind.deg}</h3>
-              <h3>Wind speed:{ wind.speed}km/h</h3>
+              <h4>Wind</h4>
+              <p>Wind deg:{ wind.deg}</p>
+              <p>Wind speed:{ wind.speed}km/h</p>
            </div>
       )
    }
